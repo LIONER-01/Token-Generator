@@ -8,10 +8,13 @@ lunch the Gen.exe File 😉
 ```
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/114467257/212702591-b696632c-bc89-4dec-8fc2-a7f187d72ffe.jpg">
+  <img src="https://user-images.githubusercontent.com/114467257/213879811-825de125-988b-4839-8cc4-9bc311dc4d56.gif">
 </p>
 
-
+<details>
+<summary>Preview</summary>
+<img src="https://user-images.githubusercontent.com/114467257/213879893-d7591ee0-ab3f-4d58-8dcf-cc5d232f0453.PNG" alt="png">
+</details>
 
 ---
 
