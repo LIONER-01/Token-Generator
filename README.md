@@ -10,14 +10,18 @@
 ```
 lunch the Gen.exe File 🍹<3
 ```
-```
-how to use 
+</h1>
 
-1. Go to Token Generator\Config and edit Setting.txt
-2. Open the Gen.exe file and enter the number you want Token to create
-3. After creating the token and checking the token, the program saves the token in tokens.txt
-4. I hope you like the program and get the final use 💖
-```
+|how to use |
+|-------------------------------------------------|
+Go to Token Generator\Config and edit Setting.txt
+Open the Gen.exe file and enter the number you want Token to create
+After creating the token and checking the token, the program saves the token in tokens.txt
+I hope you like the program and get the final use 💖
+
+</h1>
+
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/114467257/213879811-825de125-988b-4839-8cc4-9bc311dc4d56.gif">
