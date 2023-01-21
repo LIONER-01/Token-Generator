@@ -3,8 +3,12 @@
 [![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge)](https://github.com/LIONER-01/Token-Generator/archive/refs/heads/main.zip)
 [![Stars](https://img.shields.io/github/stars/LIONER-01/Token-Generatorr?label=Stars&style=for-the-badge)](https://github.com/LIONER-01/Token-Generator/stargazers)
 
+> If you like the project, consider dropping a star ⭐
+  
+> If you caught any issues, please report it in [issues](https://github.com/LIONER-01/Token-Generator/issues).
+
 ```
-lunch the Gen.exe File 😉
+lunch the Gen.exe File 🍹<3
 ```
 
 <p align="center">
@@ -23,5 +27,11 @@ lunch the Gen.exe File 😉
 * ` Easy To Use`
 * ` Supports Windows, Linux and macOS`
 * ` Fast Gen`
-* ` Fast Gen`
+
 ---
+
+```
+if we hit 100 repo stars, i'll be adding some new features and UPDATES! 
+```
+#### Credits
+- [! lioner#1990](https://github.com/LIONER-01) (For Making the README)
