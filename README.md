@@ -30,8 +30,8 @@ lunch the Gen.exe File 🍹<3
 
 ---
 
-```
-if we hit 100 repo stars, i'll be adding some new features and UPDATES! 
+```javascript
+if we hit 100 repo stars, i'll be adding some new features and UPDATES!
 ```
 #### Credits
 - [! lioner#1990](https://github.com/LIONER-01) (For Making the README)
